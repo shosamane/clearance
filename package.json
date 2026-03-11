@@ -1,0 +1,14 @@
+{
+  "name": "clearance-web",
+  "version": "1.0.0",
+  "description": "CLEARANCE - Ren'Py Web Build Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
+  }
+}
