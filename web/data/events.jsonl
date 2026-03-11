@@ -1,4 +1,0 @@
-{"event": "session_start", "data": {}, "participant_id": "p-901d437ab41a40e4", "prolific_pid": null, "study_id": null, "session_id": null, "_ts": 1773146375.3207731, "_ip": "127.0.0.1"}
-{"event": "enter_day", "data": {"day": 1}, "participant_id": "p-901d437ab41a40e4", "prolific_pid": null, "study_id": null, "session_id": null, "_ts": 1773146404.069249, "_ip": "127.0.0.1"}
-{"event": "enter_profile", "data": {"day": 1, "profile": "1A"}, "participant_id": "p-901d437ab41a40e4", "prolific_pid": null, "study_id": null, "session_id": null, "_ts": 1773146412.7409532, "_ip": "127.0.0.1"}
-{"event": "journal_open", "data": {"profile": "1A"}, "participant_id": "p-901d437ab41a40e4", "prolific_pid": null, "study_id": null, "session_id": null, "_ts": 1773146423.921663, "_ip": "127.0.0.1"}
